@@ -1,1 +1,1 @@
-# lipo-sapr-lab1
+TUSUR Project
